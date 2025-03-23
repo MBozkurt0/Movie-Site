@@ -6,4 +6,4 @@ Kaydırma butonu ve farklı arkaplan renk seçeneğiyle film sitesi projesi
 
 Html, CSS ve JS Kullanılarak yapılmıştır
 
-![](images/Netflix%20Clone%20.gif)
+![](images/Movie%20Site.gif)
